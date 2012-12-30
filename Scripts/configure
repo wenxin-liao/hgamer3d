@@ -1,0 +1,1 @@
+python PyHBind/studio.py Module-$1/Config/module-config.cfg

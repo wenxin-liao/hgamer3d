@@ -1,0 +1,27 @@
+Scripts/reg down Data
+Scripts/build Data
+Scripts/reg Data
+
+Scripts/prepare Ogre
+Scripts/build Ogre
+Srcripts/reg Ogre
+
+Scripts/prepare SFML
+Scripts/build SFML
+Srcripts/reg SFML
+
+Scripts/prepare CEGUI
+Scripts/build CEGUI
+Srcripts/reg CEGUI
+
+Scripts/prepare Enet
+Scripts/build Enet
+Srcripts/reg Enet
+
+Scripts/prepare Bullet
+Scripts/build Bullet
+Srcripts/reg Bullet
+
+Scripts/build API
+Scripts/reg API
+

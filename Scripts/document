@@ -1,0 +1,1 @@
+python Scripts/py/buildDoc.py $1

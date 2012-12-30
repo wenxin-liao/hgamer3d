@@ -1,0 +1,6 @@
+mkdir Archive/$1
+cp Module-Ogre-Build/dll-build/release/*.dll Archive/$1
+cp Module-CEGUI-Build/dll-build/release/*.dll Archive/$1
+cp Module-SFML-Build/dll-build/release/*.dll Archive/$1
+cp Module-Enet-Build/dll-build/release/*.dll Archive/$1
+cp Module-Bullet-Build/dll-build/release/*.dll Archive/$1
